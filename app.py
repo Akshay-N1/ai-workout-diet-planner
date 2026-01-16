@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 from utils.intelligent_engine import generate_diet_plan, generate_fitness_tips
 
 
